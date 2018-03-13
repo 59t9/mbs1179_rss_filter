@@ -5,7 +5,7 @@ GIT
     sinatra (2.0.0.pre.alpha)
       mustermann (~> 0.4)
       rack (~> 2.0)
-      rack-protection (~> 1.5)
+      rack-protection (~> 1.5.5)
       tilt (~> 2.0)
 
 GEM
@@ -26,7 +26,7 @@ GEM
       mime-types (>= 1.17.2, < 3)
       net-http-digest_auth (~> 1.1, >= 1.1.1)
       net-http-persistent (~> 2.5, >= 2.5.2)
-      nokogiri (~> 1.6)
+      nokogiri (~> 1.8.1)
       ntlm-http (~> 0.1, >= 0.1.1)
       webrobots (>= 0.0.9, < 0.2)
     mime-types (2.99.2)
